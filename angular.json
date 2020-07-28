@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ACNHChecklist"
+    }
+  },
+  "defaultProject": "ACNHChecklist",
+  "cli": {
+    "analytics": "5d813132-1a93-412b-a3f3-56c315f45ac7"
+  }
 }
